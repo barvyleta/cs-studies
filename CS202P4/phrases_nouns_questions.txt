@@ -1,0 +1,63 @@
+2	Good morning	Buenos dias
+2	Good afternoon	Buenas tardes
+2	Good evening	Buenas noches
+2	Hello	Hola
+1	How are you?	Como esta
+2	Please	Por favor
+1	Do you speak English?	Habla ingles
+2	I want	Yo quiero
+2	I don't want	Yo no quiero
+2	I would like	Me gustaria
+1	Where is	Donde esta
+1	How much does it cost?	Cuanto cuesta
+1	What time is it?	Que hora es
+1	Do you have	Tiene
+2	I have	Yo tengo
+2	I don't have	Yo no tengo
+2	I understand	Yo entiendo
+2	I don't understand	Yo no entiendo
+1	Do you understand?	Entiende
+0	Bus station	La estacion de ferrocarril
+0	Restaurant	Un restaurante
+0	Train	El tren
+0	Street	La calle
+0	Bank	El banco
+0	Bathroom	El bano
+2	I need	Yo necesito
+0	Money	Dinero
+2	To the right	A la derecha
+2	To the left	A la izquierda
+2	Straight ahead	Derecho
+2	At the corner	En la esquina
+2	In a block	A una cuadra
+0	A table	Una mesa
+0	A menu	Un menu
+1	Can I see the menu?	Puedo ver el menu
+1	What do you recommend?	Que me recomienda
+0	Soup	Sopa
+0	Salad	Ensalada
+0	Hamburger	Hamburguesa
+0	An appetizer	Una entrada
+0	Dessert	Un postre
+0	A drink	Una bebida
+0	Water	Agua
+0	Red wine	Vino tinto
+0	White wine	Vino blanco
+0	Beer	Cerveza
+0	Coffee	Un cafe
+0	check	La cuenta
+1	Where can I exchange travelers checks?	Donde puedo cambiar cheques de viajero
+2	I would like a taxi as soon as possible.	Quisiera un taxi tan pronto que sea posible.
+1	Is this taxi free?	Esta libre este taxi
+2	Wait here, please.	Espere aqui, por favor.
+2	Stop here, please.	Pare aqui, por favor.
+1	When does the flight leave?	Cuando sale el vuelo
+1	When does the flight arrive?	Cuando llega el vuelo
+1	Where is baggage claim?	Donde esta el reclamo de equipaje
+1	Where is the taxi stop?	Donde esta la parada de taxis
+2	I need to go to	Necesito ir a
+1	How much is the fare?	Cuanto es el pasaje
+1	When does the next train leave?	Cuando sale el proximo tren
+2	I'm lost	Estoy perdido
+2	I want to go shopping	Quiero hacer compras
+1	Is there something less expensive?	Hay algo mas barato
